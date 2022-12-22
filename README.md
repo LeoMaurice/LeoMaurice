@@ -1,6 +1,8 @@
 # 💫 About Me:
 Civil servant and data scientist at @InseeFr.<br><br>In training at @Ensae after an engineering degree at Ecole Polytechnique.<br><br>Interested in sociology, social and economic networks, urbanism.<br><br>Currently doing BATO-MOUCHE project under the supervision of S. Berkemer (LIX, @bsarah) and P. Tubara (CNRS/CREST).
 
+On my free time I am working on an automated playlist making algorithm using Spotify and Genius data, topic predictions and clustering.
+
 Python and Rstats enthousiast. Advocating in favor of opensource and opendata.
 
 Love dataviz, in particular maps.
