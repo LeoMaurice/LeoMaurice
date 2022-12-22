@@ -1,6 +1,10 @@
 # 💫 About Me:
 Civil servant and data scientist at @InseeFr.<br><br>In training at @Ensae after an engineering degree at Ecole Polytechnique.<br><br>Interested in sociology, social and economic networks, urbanism.<br><br>Currently doing BATO-MOUCHE project under the supervision of S. Berkemer (LIX, @bsarah) and P. Tubara (CNRS/CREST).
 
+Python and Rstats enthousiast. Advocating in favor of opensource and opendata.
+
+Love dataviz, in particular maps.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/twitter/url?color=blue&label=LinkedIn&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fleopold-maurice)](https://linkedin.com/in/leopold-maurice) [![Mastodon](https://img.shields.io/twitter/url?color=purple&label=Mastodon&logo=mastodon&style=for-the-badge&url=https%3A%2F%2Fsciences.social%2F%40lmaurice)](https://sciences.social/@lmaurice) 
