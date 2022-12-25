@@ -7,6 +7,8 @@ Python and Rstats enthousiast. Advocating in favor of opensource and opendata.
 
 Love dataviz, in particular maps.
 
+My CV can be find in this repository.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/twitter/url?color=blue&label=LinkedIn&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fleopold-maurice)](https://linkedin.com/in/leopold-maurice) [![Mastodon](https://img.shields.io/twitter/url?color=purple&label=Mastodon&logo=mastodon&style=for-the-badge&url=https%3A%2F%2Fsciences.social%2F%40lmaurice)](https://sciences.social/@lmaurice) 
