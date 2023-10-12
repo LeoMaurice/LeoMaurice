@@ -1,5 +1,5 @@
 # 💫 About Me:
-Civil servant and data scientist at @InseeFr.<br><br>In training at @Ensae after an engineering degree at Ecole Polytechnique.<br><br>Interested in labour, health, social and economic networks, urbanism.<br><br>Currently doing a project at the MZES/Mannheim Universität on the communication of MPs through twitter in regard to their constituents needs and their party policy with Dr. Denis Cohen.
+Civil servant and data scientist at @InseeFr.<br><br>In training at @Ensae after an engineering degree at Ecole Polytechnique.<br><br>Interested in labour, health, social and economic networks, urbanism.<br><br>Just finished a project at the MZES/Mannheim Universität on the communication of MPs through twitter in regard to their constituents needs and their party policy with Dr. Denis Cohen.
 
 On my free time I am working on an automated playlist making algorithm using Spotify and Genius data, topic predictions and clustering.
 
