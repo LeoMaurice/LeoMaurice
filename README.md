@@ -1,11 +1,11 @@
 # 💫 About Me:
 Civil servant and data scientist at @InseeFr.<br><br>In training at @Ensae after an engineering degree at Ecole Polytechnique.
 
-Currently doing a master thesis with Emmanuel Didier, on the textual analysis of the discourse of the French Bioethic Comittee.
+Currently doing a master thesis with Emmanuel Didier, on the textual analysis of the discourse of the French Bioethics Committee.
 
 Finished a project at the MZES/Mannheim Universität on the communication of MPs through twitter in regard to their constituents needs and their party policy with Dr. Denis Cohen.
 
-In both case, Natural Language Processing (BERT) was used.
+In both cases, Natural Language Processing (BERT) was used.
 
 On my free time I am working on an automated playlist making algorithm using Spotify and Genius data, mood/genre predictions and clustering.
 
