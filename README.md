@@ -4,10 +4,6 @@ Working on Health data and labour conditions. Using the *Conditions de Travail* 
 
 Member of @InseeFr civil servants.
 
-## Degrees
-
-Sociology master from Paris-Saclay University. Engineering degree from Ensae and Ecole Polytechnique, Institut Polytechnique de Paris.
-
 ## Projects and publications
 
 [Master thesis](https://leomaurice.github.io/CCNE/) with Emmanuel Didier and Samuel Coavoux, in 2024, on the textual analysis and bibliometrics of the French Bioethics Committee : Léopold Maurice. Traitement de la personnalité humaine et insertion du CCNE dans le réseau des institutions d'expertise. Sociologie. 2024. ⟨dumas-04742584⟩
@@ -24,6 +20,9 @@ Love dataviz, in particular maps.
 
 My CV can be find in this repository.
 
+## Degrees
+
+Sociology master from Paris-Saclay University. Engineering degree from Ensae and Ecole Polytechnique, Institut Polytechnique de Paris.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/twitter/url?color=blue&label=LinkedIn&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fleopold-maurice)](https://linkedin.com/in/leopold-maurice) 
