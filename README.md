@@ -1,11 +1,20 @@
 # 💫 About Me:
-Civil servant and data scientist at @InseeFr.<br><br>In training at @Ensae after an engineering degree at Ecole Polytechnique.
+Statistician and data scientist at Dares, Statistics department of the French Labour Ministery.
+Working on Health data and labour conditions. Using the *Conditions de Travail* survey and *SNDS* data (Medical consumption administrative data from French Social Security).
 
-Currently doing a [master thesis](https://leomaurice.github.io/CCNE/) with Emmanuel Didier, on the textual analysis of the discourse of the French Bioethics Committee.
+Member of @InseeFr civil servants.
 
-Finished a project at the MZES/Mannheim Universität on the communication of MPs through twitter in regard to their constituents needs and their party policy with Dr. Denis Cohen.
+## Degrees
 
-In both cases, Natural Language Processing (BERT) was used.
+Sociology master from Paris-Saclay University. Engineering degree from Ensae and Ecole Polytechnique, Institut Polytechnique de Paris.
+
+## Projects and publications
+
+[Master thesis](https://leomaurice.github.io/CCNE/) with Emmanuel Didier and Samuel Coavoux, in 2024, on the textual analysis and bibliometrics of the French Bioethics Committee.
+
+[Article in Frontiers in Big Data on amenities walking accessibility in and around Paris](https://doi.org/10.3389/fdata.2024.1354007) : Marie-Olive Thaury, Simon Genet, Léopold Maurice, Paola Tubaro, Sarah J Berkemer. City composition and accessibility statistics in and around Paris. Frontiers in Big Data, 2024, 7, ⟨10.3389/fdata.2024.1354007⟩. ⟨hal-04460871⟩
+
+Project  with Dr. Denis Cohen in 2023 at the MZES/Mannheim Universität on the communication of MPs through twitter in regard to their constituents needs and their party policy.
 
 On my free time I am working on an automated playlist making algorithm using Spotify and Genius data, mood/genre predictions and clustering.
 
@@ -18,7 +27,7 @@ My CV can be find in this repository.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/twitter/url?color=blue&label=LinkedIn&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fleopold-maurice)](https://linkedin.com/in/leopold-maurice) 
-<!--[![Mastodon](https://img.shields.io/twitter/url?color=purple&label=Mastodon&logo=mastodon&style=for-the-badge&url=https%3A%2F%2Fsciences.social%2F%40lmaurice)](https://sciences.social/@lmaurice) -->
+[![Mastodon](https://img.shields.io/twitter/url?color=purple&label=Mastodon&logo=mastodon&style=for-the-badge&url=https%3A%2F%2Fsciences.social%2F%40lmaurice)](https://datasci.social/@lmaurice)
 
 # 💻 Tech Stack:
 ## Mainly :
