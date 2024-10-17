@@ -34,17 +34,16 @@ Sociology master from Paris-Saclay University. Engineering degree from Ensae and
 [![LinkedIn](https://img.shields.io/twitter/url?color=blue&label=LinkedIn&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fleopold-maurice)](https://linkedin.com/in/leopold-maurice) 
 [![Mastodon](https://img.shields.io/twitter/url?color=purple&label=Mastodon&logo=mastodon&style=for-the-badge&url=https%3A%2F%2Fsciences.social%2F%40lmaurice)](https://datasci.social/@lmaurice)
 
-# 💻
-## Mainly :
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
+# 💻 Skills :
+## Mainly 📊🐍 :
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 ![quarto](https://img.shields.io/badge/quarto-%23276DC3.svg?style=for-the-badge&logo=R&logoColor=white)
 
-## But also :
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+## But also ✏️📐:
 ![Affinity Designer](https://img.shields.io/badge/affinitydesginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-## And some competences in :
+## And some competences in 🔧 :
 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
