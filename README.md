@@ -26,7 +26,7 @@ On my free time I am working on an automated playlist making algorithm using Spo
 
 ## 🎓 Degrees
 
-Sociology master from Paris-Saclay University. Engineering degree from Ensae and Ecole Polytechnique, Institut Polytechnique de Paris.
+Sociology master from Paris-Saclay University. Engineering degrees from Ensae and Ecole Polytechnique, Institut Polytechnique de Paris.
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/twitter/url?color=blue&label=LinkedIn&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fleopold-maurice)](https://linkedin.com/in/leopold-maurice) 
