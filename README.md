@@ -10,6 +10,8 @@ Advocating in favor of opensource and opendata.
 
 Love interactive dataviz, in particular maps.
 
+🍵 Tea, ☕ coffee, 🧉 yerba mate addict.
+
 # 📚 Papers & Degrees:
 
 ## ✍️ Projects and publications
