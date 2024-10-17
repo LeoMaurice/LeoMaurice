@@ -10,7 +10,7 @@ Sociology master from Paris-Saclay University. Engineering degree from Ensae and
 
 ## Projects and publications
 
-[Master thesis](https://leomaurice.github.io/CCNE/) with Emmanuel Didier and Samuel Coavoux, in 2024, on the textual analysis and bibliometrics of the French Bioethics Committee.
+[Master thesis](https://leomaurice.github.io/CCNE/) with Emmanuel Didier and Samuel Coavoux, in 2024, on the textual analysis and bibliometrics of the French Bioethics Committee : Léopold Maurice. Traitement de la personnalité humaine et insertion du CCNE dans le réseau des institutions d'expertise. Sociologie. 2024. ⟨dumas-04742584⟩
 
 [Article in Frontiers in Big Data on amenities walking accessibility in and around Paris](https://doi.org/10.3389/fdata.2024.1354007) : Marie-Olive Thaury, Simon Genet, Léopold Maurice, Paola Tubaro, Sarah J Berkemer. City composition and accessibility statistics in and around Paris. Frontiers in Big Data, 2024, 7, ⟨10.3389/fdata.2024.1354007⟩. ⟨hal-04460871⟩
 
@@ -35,10 +35,10 @@ My CV can be find in this repository.
 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
-![quarto](https://img.shields.io/badge/quarto-%23276DC3.svg?style=for-the-badge&logo=R&logoColor=white) ![stan](https://img.shields.io/badge/stan-%234CC61E.svg?style=for-the-badge&logo=stan&logoColor=white)
+![quarto](https://img.shields.io/badge/quarto-%23276DC3.svg?style=for-the-badge&logo=R&logoColor=white)
 
 ## But also :
-![Affinity Designer](https://img.shields.io/badge/affinitydesginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)  
+![Affinity Designer](https://img.shields.io/badge/affinitydesginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 ## And some competences in :
 
