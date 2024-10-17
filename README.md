@@ -4,6 +4,14 @@ Working on Health data and labour conditions. Using the *Conditions de Travail* 
 
 Member of @InseeFr civil servants.
 
+Rstats enthousiast. 
+
+Advocating in favor of opensource and opendata.
+
+Love interactive dataviz, in particular maps.
+
+My CV can be find in this repository.
+
 ## Projects and publications
 
 [Master thesis](https://leomaurice.github.io/CCNE/) with Emmanuel Didier and Samuel Coavoux, in 2024, on the textual analysis and bibliometrics of the French Bioethics Committee : Léopold Maurice. Traitement de la personnalité humaine et insertion du CCNE dans le réseau des institutions d'expertise. Sociologie. 2024. ⟨dumas-04742584⟩
@@ -13,12 +21,6 @@ Member of @InseeFr civil servants.
 Project  with Dr. Denis Cohen in 2023 at the MZES/Mannheim Universität on the communication of MPs through twitter in regard to their constituents needs and their party policy.
 
 On my free time I am working on an automated playlist making algorithm using Spotify and Genius data, mood/genre predictions and clustering.
-
-Python and Rstats enthousiast. Advocating in favor of opensource and opendata.
-
-Love dataviz, in particular maps.
-
-My CV can be find in this repository.
 
 ## Degrees
 
