@@ -10,8 +10,6 @@ Advocating in favor of opensource and opendata.
 
 Love interactive dataviz, in particular maps.
 
-My CV can be find in this repository, as pdf.
-
 # 📚 Papers & Degrees:
 
 ## ✍️ Projects and publications
