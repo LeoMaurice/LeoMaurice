@@ -1,4 +1,4 @@
-# 🐈‍⬛ About Me :
+# 🐈 About Me :
 🧑‍💼 Statistician and data scientist at Dares, Statistics department of the French Labour Ministery.
 Working on Health data and labour conditions. Using the *Conditions de Travail* survey and *SNDS* data (Medical consumption administrative data from French Social Security).
 
