@@ -1,6 +1,6 @@
 # 🐈 About Me :
 🧑‍💼 Statistician and data scientist at Dares, Statistics department of the French Labour Ministery.
-Working on Health data and labour conditions. Using the *Conditions de Travail* survey and *SNDS* data (Medical consumption administrative data from French Social Security).
+Working on labour conditions impacts on health using the *Conditions de Travail* survey and *SNDS* data (Medical consumption administrative data from French Social Security).
 
 🏢 Member of @InseeFr civil servants.
 
@@ -28,7 +28,9 @@ Project  with Dr. Denis Cohen in 2023 at the MZES/Mannheim Universität on the c
 
 ## 🎓 Degrees
 
-Sociology master from Paris-Saclay University. Engineering degrees from Ensae and Ecole Polytechnique, Institut Polytechnique de Paris.
+Sociology master from Paris-Saclay University. 
+
+Engineering degrees from Ensae and Ecole Polytechnique, Institut Polytechnique de Paris.
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/twitter/url?color=blue&label=LinkedIn&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fleopold-maurice)](https://linkedin.com/in/leopold-maurice) 
@@ -46,4 +48,4 @@ Sociology master from Paris-Saclay University. Engineering degrees from Ensae an
 
 ## And some competences in 🔧 :
 
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
