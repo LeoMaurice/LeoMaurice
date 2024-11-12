@@ -4,6 +4,8 @@ Working on labour conditions impacts on health using the *Conditions de Travail*
 
 🏢 Member of @InseeFr civil servants.
 
+🌐 Member of the [Institut Santé Numérique en Société](https://isns.fr/membre/leopold-maurice/) (Numeric Heath in Society Institute).
+
 📈 Rstats enthousiast. 
 
 💾 Advocating in favor of opensource and opendata.
