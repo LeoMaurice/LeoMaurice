@@ -24,10 +24,6 @@ Working on labour conditions impacts on health using the *Conditions de Travail*
 
 📖 See also my [HAL profile](https://cv.hal.science/leopoldmaurice).
 
-Project  with Dr. Denis Cohen in 2023 at the MZES/Mannheim Universität on the communication of MPs through twitter in regard to their constituents needs and their party policy.
-
-🎵 On my free time I am working on an automated playlist making algorithm using Spotify and Genius data, mood/genre predictions and clustering.
-
 ## 🎓 Degrees
 
 Sociology master from Paris-Saclay University. 
@@ -36,7 +32,7 @@ Engineering degrees from Ensae and Ecole Polytechnique, Institut Polytechnique d
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/twitter/url?color=blue&label=LinkedIn&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fleopold-maurice)](https://linkedin.com/in/leopold-maurice) 
-[![Mastodon](https://img.shields.io/twitter/url?color=purple&label=Mastodon&logo=mastodon&style=for-the-badge&url=https%3A%2F%2Fsciences.social%2F%40lmaurice)](https://datasci.social/@lmaurice)
+[![Mastodon](https://img.shields.io/twitter/url?color=purple&label=Mastodon&logo=mastodon&style=for-the-badge&url=https%3A%2F%2Fsciences.social%2F%40lmaurice)](https://social.sciences.re/@maurice)
 
 # 💻 Skills :
 ## Mainly 📊🐍 :
