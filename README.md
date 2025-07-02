@@ -33,7 +33,7 @@ Engineering degrees from Ensae and Ecole Polytechnique, Institut Polytechnique d
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/twitter/url?color=blue&label=LinkedIn&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fleopold-maurice)](https://linkedin.com/in/leopold-maurice) 
 [![Mastodon](https://img.shields.io/twitter/url?color=purple&label=Mastodon&logo=mastodon&style=for-the-badge&url=https%3A%2F%2Fsciences.social%2F%40lmaurice)](https://social.sciences.re/@maurice)
-<a rel="me" href="https://social.sciences.re/@maurice">Mastodon</a>
+<a rel="me" href="https://social.sciences.re/@maurice"></a>
 
 # 💻 Skills :
 ## Mainly 📊🐍 :
