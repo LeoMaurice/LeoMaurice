@@ -1,4 +1,4 @@
-I migrated my reporitories on [codeberg](https://codeberg.org/leopold-maurice) and will add current development there.
+I migrated my personnal reporitories on [codeberg](https://codeberg.org/leopold-maurice).
 
 # 🐈 About Me :
 🧑‍💼 Statistician and data scientist at Dares, Statistics department of the French Labour Ministery.
