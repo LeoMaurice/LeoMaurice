@@ -1,3 +1,5 @@
+I migrated my reporitories on [codeberg](https://codeberg.org/leopold-maurice) and will add current development there.
+
 # 🐈 About Me :
 🧑‍💼 Statistician and data scientist at Dares, Statistics department of the French Labour Ministery.
 Working on labour conditions impacts on health using the *Conditions de Travail* survey and *SNDS* data (Medical consumption administrative data from French Social Security).
@@ -45,6 +47,6 @@ Engineering degrees from Ensae and Ecole Polytechnique, Institut Polytechnique d
 ## But also ✏️📐:
 ![Affinity Designer](https://img.shields.io/badge/affinitydesginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-## And some competences in 🔧 :
+## And some interests in 🔧 :
 
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
