@@ -18,7 +18,7 @@ Working on labour conditions impacts on health using the *Conditions de Travail*
 
 # 📚 Papers & Degrees :
 
-## 📊 Pulications
+## 📊 Publications
 
 Coming soon
 
