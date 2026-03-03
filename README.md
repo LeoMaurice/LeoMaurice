@@ -2,7 +2,7 @@ I migrated my reporitories on [codeberg](https://codeberg.org/leopold-maurice) a
 
 # 🐈 About Me :
 🧑‍💼 Statistician and data scientist at Dares, Statistics department of the French Labour Ministery.
-Working on labour conditions impacts on health using the *Conditions de Travail* survey and *SNDS* data (Medical consumption administrative data from French Social Security).
+Working on labour conditions impacts on health using the *Conditions de Travail* survey and *SNDS* data (Medical consumption administrative data from French Social Security). I am also working on who get access to the work penibility scheme *C2P*.
 
 🏢 Member of @InseeFr civil servants.
 
@@ -16,9 +16,13 @@ Working on labour conditions impacts on health using the *Conditions de Travail*
 
 🍵 Tea, ☕ coffee, 🧉 yerba mate addict.
 
-# 📚 Papers & Degrees:
+# 📚 Papers & Degrees :
 
-## ✍️ Projects and publications
+## 📊 Pulications
+
+Coming soon
+
+## ✍️ Personnal projects and publications
 
 📕 [Master thesis](https://leomaurice.github.io/CCNE/) with Emmanuel Didier and Samuel Coavoux, in 2024, on the textual analysis and bibliometrics of the French Bioethics Committee : Léopold Maurice. Traitement de la personnalité humaine et insertion du CCNE dans le réseau des institutions d'expertise. Sociologie. 2024. ⟨dumas-04742584⟩
 
@@ -30,7 +34,7 @@ Working on labour conditions impacts on health using the *Conditions de Travail*
 
 Sociology master from Paris-Saclay University. 
 
-Engineering degrees from Ensae and Ecole Polytechnique, Institut Polytechnique de Paris.
+Engineering master degrees from Ensae and Ecole Polytechnique, Institut Polytechnique de Paris.
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/twitter/url?color=blue&label=LinkedIn&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fleopold-maurice)](https://linkedin.com/in/leopold-maurice) 
@@ -44,9 +48,8 @@ Engineering degrees from Ensae and Ecole Polytechnique, Institut Polytechnique d
 ![quarto](https://img.shields.io/badge/quarto-%23276DC3.svg?style=for-the-badge&logo=R&logoColor=white)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-## But also ✏️📐:
-![Affinity Designer](https://img.shields.io/badge/affinitydesginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-## And some interests in 🔧 :
+## And some competences in 🔧 :
 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
