@@ -1,5 +1,3 @@
-I migrated my personnal reporitories on [codeberg](https://codeberg.org/leopold-maurice).
-
 # 🐈 About Me :
 🧑‍💼 Statistician and data scientist at Dares, Statistics department of the French Labour Ministery.
 Working on labour conditions impacts on health using the *Conditions de Travail* survey and *SNDS* data (Medical consumption administrative data from French Social Security). I am also working on who get access to the work penibility scheme *C2P*.
