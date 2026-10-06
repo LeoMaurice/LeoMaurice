@@ -18,7 +18,7 @@ I am working on the labour conditions impacts on health using the **Conditions d
 
 📔 Interest in socio-history of statistics.
 
-Check my [**website**](https://leomaurice.github.com) for more infos !
+Check my [**website**](https://leopoldmaurice.ouvaton.org/) for more infos !
 
 # 📚 Quick bio :
 
