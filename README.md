@@ -51,7 +51,7 @@ Engineering master degree in urban planning from Ecole Polytechnique, Institut P
 
 # 💻 Skills :
 ## Mainly 📊🐍 :
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+[![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)](#)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL & DuckDB](https://img.shields.io/badge/SQL%20%7C%20DuckDB-%23FFF000.svg?style=for-the-badge&logo=duckdb&logoColor=black)
 
