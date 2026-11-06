@@ -70,6 +70,8 @@ Engineering master degree in urban planning from Ecole Polytechnique, Institut P
 ## Having fun with 😸 :
 
 [![Hugo](https://img.shields.io/badge/Hugo-%23FF4088.svg?style=for-the-badge&logo=hugo&logoColor=white)](#)
+[![Grav](https://img.shields.io/badge/grav-black.svg?style=for-the-badge&logo=grav&logoColor=white)](#)
+
 
 [![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)](#)
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](#)
