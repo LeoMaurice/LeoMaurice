@@ -51,25 +51,25 @@ Engineering master degree in urban planning from Ecole Polytechnique, Institut P
 
 # 💻 Skills :
 ## Mainly 📊🐍 :
-[![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)](#)
+[![R](https://img.shields.io/badge/R-276DC3.svg?style=for-the-badge&logo=r&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#)
-[![SQL & DuckDB](https://img.shields.io/badge/SQL%20%7C%20DuckDB-%23FFF000.svg?style=for-the-badge&logo=duckdb&logoColor=black)](#)
+[![SQL & DuckDB](https://img.shields.io/badge/SQL%20%7C%20DuckDB-FFF000.svg?style=for-the-badge&logo=duckdb&logoColor=black)](#)
 
-[![Shiny](https://img.shields.io/badge/Shiny-%230099CC.svg?style=for-the-badge&logo=r&logoColor=white)](#)
-[![Quarto](https://img.shields.io/badge/Quarto-%233974A4.svg?style=for-the-badge&logo=quarto&logoColor=white)](#)
+[![Shiny](https://img.shields.io/badge/Shiny-0099CC.svg?style=for-the-badge&logo=r&logoColor=white)](#)
+[![Quarto](https://img.shields.io/badge/Quarto-3974A4.svg?style=for-the-badge&logo=quarto&logoColor=white)](#)
 
 ## Learning 👨‍🎓 :
 
-[![Javascript](https://img.shields.io/badge/Javascript-%23F0DB4F.svg?style=for-the-badge&logo=javascript&logoColor=black)](#)
-[![Observable Framework](https://img.shields.io/badge/Observable%20Framework-%23F5A623.svg?style=for-the-badge&logo=observable&logoColor=white)](#)
+[![Javascript](https://img.shields.io/badge/Javascript-F0DB4F.svg?style=for-the-badge&logo=javascript&logoColor=black)](#)
+[![Observable Framework](https://img.shields.io/badge/Observable%20Framework-F5A623.svg?style=for-the-badge&logo=observable&logoColor=white)](#)
 
-<!-- [![Svelte](https://img.shields.io/badge/Svelte-%23F1413D.svg?style=for-the-badge&logo=svelte&logoColor=white)](#) -->
+<!-- [![Svelte](https://img.shields.io/badge/Svelte-F1413D.svg?style=for-the-badge&logo=svelte&logoColor=white)](#) -->
 
-<!-- [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](#) -->
+<!-- [![Rust](https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=rust&logoColor=white)](#) -->
 
 ## Having fun with 😸 :
 
-[![Hugo](https://img.shields.io/badge/Hugo-%23FF4088.svg?style=for-the-badge&logo=hugo&logoColor=white)](#)
+[![Hugo](https://img.shields.io/badge/Hugo-FF4088.svg?style=for-the-badge&logo=hugo&logoColor=white)](#)
 [![Grav](https://img.shields.io/badge/grav-black.svg?style=for-the-badge&logo=grav&logoColor=white)](#)
 
 
